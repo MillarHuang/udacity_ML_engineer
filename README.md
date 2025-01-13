@@ -4,6 +4,7 @@
     * project is at https://github.com/MillarHuang/Predict-Customer-Churn.git
 2. Build MLpipeline:
     * build a MLpipeline using MLflow,Weight&Bias,Hydra
+    * build an end-to-end ML pipeline demo: https://github.com/MillarHuang/genre_classification.git
     * project is at https://github.com/MillarHuang/build-ml-pipeline-for-short-term-rental-prices.git
 3. Deploy_ML_pipeline:
     * performance_testing: Aequitas for slice performance calculation, model card template
