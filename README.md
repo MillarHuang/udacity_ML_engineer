@@ -1,2 +1,4 @@
 # udacity_repo
-This is a repository to gain familiarity with git and Github.
+1. Testing/
+  * unit tests & logging
+2. 
