@@ -1,6 +1,7 @@
 # udacity_repo
 1. Testing:
-    * unit tests & logging
+    * Best codeing practices: unit tests & logging
+    * project is at https://github.com/MillarHuang/Predict-Customer-Churn.git
 2. Build MLpipeline:
     * build a MLpipeline using MLflow,Weight&Bias,Hydra
     * project is at https://github.com/MillarHuang/build-ml-pipeline-for-short-term-rental-prices.git
