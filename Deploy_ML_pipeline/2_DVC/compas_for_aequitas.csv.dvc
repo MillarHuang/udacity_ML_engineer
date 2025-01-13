@@ -1,0 +1,5 @@
+outs:
+- md5: 5fe698e7c59068a1761e9225ac7aea3c
+  size: 291997
+  hash: md5
+  path: compas_for_aequitas.csv
